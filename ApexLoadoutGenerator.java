@@ -46,6 +46,9 @@ public class ApexLoadoutGenerator{
 		weapons.add("Longbow");
 		weapons.add("Triple Take");
 		weapons.add("Kraber");
+		weapons.add("Prowler");
+		weapons.add("R-99");
+		weapons.add("Alternator");
 
 		//randomly pick two weapons
 		Random rand = new Random();
