@@ -11,7 +11,7 @@ import java.util.*;
 
 public class ApexLoadoutGenerator{
 	public static void main(String[] args){
-		final int NUM_OF_WEPS = 17;
+		final int NUM_OF_WEPS = 20;
 		final int NUM_OF_LEGENDS = 9;
 
 		ArrayList legends = new ArrayList();
