@@ -23,7 +23,7 @@ public class ApexLoadoutGenerator{
 		legends.add("Lifeline");
 		legends.add("Pathfinder");
 		legends.add("Wraith");
-		legends.add("Bagalore");
+		legends.add("Bangalore");
 		legends.add("Caustic");
 		legends.add("Mirage");
 		legends.add("Octane");
