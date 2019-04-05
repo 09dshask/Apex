@@ -6,8 +6,7 @@ also assuming that no player wants to use the same gun in both slots, so a
 check is made to ensure that no duplicate weapons are selected.
 
 David Haskell 04-04-2019
-please start to work
-new line added
+please work **test line**
 */
 import java.util.*;
 
