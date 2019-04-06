@@ -9,6 +9,7 @@ function makeLoadout(){
 		randWep2 = Math.floor(Math.random()*20);
 	}
 	document.getElementById("output").innerHTML = "You should play " + legends[randLeg] + " and use the " + weapons[randWep1] + " with the " + weapons[randWep2] + " this round";
-	var imgString = "legend_imgs/" + legends[randLeg] + ".png";
 	document.getElementById("legendPic").src = "legend_imgs/" + legends[randLeg] + ".png";
+	document.getElementById("wepOnePic").src = "weapon_imgs/" + weapons[randWep1] + ".png";
+	document.getElementById("wepTwoPic").src = "weapon_imgs/" + weapons[randWep2] + ".png";
 }
