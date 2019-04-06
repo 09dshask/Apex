@@ -5,10 +5,19 @@ h2{
 p{
 	text-align: center;
 }
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+}
 .wrapper{
 	text-align: center;
 }
 .button{
-	position: absolute;
-	top: 50%;
+	background-color: #F44336;
+	font-size: 16px;
+	border-radius: 8px;
+	padding: 14px 40px;
+	align-self: center;
 }
